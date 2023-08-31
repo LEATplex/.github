@@ -3,3 +3,5 @@ Welcome to the public GitHub for the [LEATplex Minecraft server & community](htt
 
 ## Contributing
 * To submit a bug report or feature request, open an issue in [LEATplex/LEATplex](https://github.com/LEATplex/LEATplex). Read [its README](https://github.com/LEATplex/LEATplex#readme) for more information and guidelines.
+
+*LEATplex is not owned by, endorsed by, supported by, or associated with Mojang AB or Microsoft.*
